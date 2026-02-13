@@ -1,6 +1,6 @@
-## Hi there 👋
+![snake gif](https://github.com/TklaSnst/TklaSnst/blob/output/github-snake-dark.svg)
+<!--## Hi there 👋
 
-<!--
 **TklaSnst/TklaSnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
